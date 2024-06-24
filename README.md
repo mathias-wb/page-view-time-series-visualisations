@@ -1,5 +1,5 @@
 # Page View Time Series Analysis
-## Charts
+## Visualisations
 ![Line Plot](https://github.com/mathias-wb/page-view-time-series-visualisations/blob/main/line_plot.png)
 ![Bar Plot](https://github.com/mathias-wb/page-view-time-series-visualisations/blob/main/bar_plot.png)
 ![Box Plot](https://github.com/mathias-wb/page-view-time-series-visualisations/blob/main/box_plot.png)
